@@ -36,7 +36,7 @@ class MyHomePage extends StatelessWidget {
     var hireFlutterUrl = Uri(
       scheme: 'https',
       host: 'hng.tech',
-      path: 'flutter-developers',
+      path: '/hire/flutter-developers',
     );
     var githubRepoUrl = Uri(
       scheme: 'https',
