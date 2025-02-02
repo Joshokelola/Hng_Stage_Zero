@@ -41,7 +41,7 @@ class MyHomePage extends StatelessWidget {
     var githubRepoUrl = Uri(
       scheme: 'https',
       host: 'github.com',
-      path: '',
+      path: 'Joshokelola/Hng_Stage_Zero',
     );
     var telexUrl = Uri(
       scheme: 'https',
